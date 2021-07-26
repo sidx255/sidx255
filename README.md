@@ -16,13 +16,10 @@ Hello there! I am **Siddharth Sharma (he/him)** and I'd like to thank you for bo
 
 ## 👨‍💻 Interests:
 - Computer Hardware and Networks
-- Mathematics
-- Engineering
 - Deep Learning
 - NLP
 - Algorithms
-- Startup and Entrepreneurship 
-- Motorsports
+- Startup and Entrepreneurship
 
 ## Reach me
 - [Mail](mailto:siddharth255@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
