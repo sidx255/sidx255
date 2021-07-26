@@ -1,16 +1,13 @@
 [![Header](https://github.com/sidx255/sidx255/blob/main/header_picture.jpg? "Header")](https://github.com/sidx255/sidx255/blob/main/header_picture.jpg)
 
 <p align='center'>
-  <img alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>
-  <img height="28px" src="https://img.shields.io/badge/Nvidia-CUDA-green"/>
+  <img alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg"/>
   <img alt="C" height="30px" src="https://api.iconify.design/logos:c.svg" />
   <img alt="C++" height="30px" src="https://api.iconify.design/logos:c-plusplus.svg" />
-  <img alt="C++" height="30px" src="https://api.iconify.design/logos:go.svg" />
-  <img alt="python" height="30px" src="https://api.iconify.design/logos:python.svg" />
+  <img alt="GO" height="30px" src="https://api.iconify.design/logos:go.svg" />
+  <img alt="Julia" height="30px" src="https://api.iconify.design/vscode-icons:file-type-julia.svg" />
   <img alt="OpenGL" height="30px" src="https://api.iconify.design/logos:opengl.svg" />
   <img alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
-  <img alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
-
  
 </p>
 
