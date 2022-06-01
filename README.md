@@ -11,8 +11,7 @@
  
 </p>
 
-# Crikey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+# Crikey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 Hello there! I am **Siddharth Sharma (he/him)** and I'd like to thank you for bothering to visit my profile. I am a CSE undergrad at VIT Vellore, looking forward to learn new things and explore opportunities in technology.
 
